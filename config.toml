@@ -11,22 +11,22 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Uncomment to enable Disqus comments
-#disqusShortname = "yourdiscussshortname"
+#   disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Hari Mohan"
-  info = "Telling stories, using code"
+  info = "Telling stories, with code"
   description = "Hari Mohan's personal website"
   keywords = "blog,developer,personal"
 #   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+#   gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "Thank you for visiting"
+#   footercontent = "Thank you for visiting"
   hideFooter = false
-  hideCredits = false
+  hideCredits = true
   hideCopyright = false
   since = 2021
 
@@ -54,15 +54,19 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
   name = "Linkedin"
   icon = "fa fa-linkedin fa-2x"
-  weight = 3
+  weight = 2
   url = "https://www.linkedin.com/in/harimohan-mohandas/"
 
 # Menu links
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "posts/"
+  url  = "/coming-soon"
 [[menu.main]]
   name = "About"
   weight = 2
-  url = "about"
+  url = "/about"
+[[menu.main]]
+  name = "Credits"
+  weight = 2
+  url = "/credits"
