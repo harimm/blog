@@ -70,3 +70,7 @@ pygmentscodefencesguesssyntax = true
   name = "Credits"
   weight = 2
   url = "/credits"
+[[menu.main]]
+  name = "Credits"
+  weight = 2
+  url = "/credits"
