@@ -10,7 +10,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+# Uncomment to enable Disqus comments
+#disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Hari Mohan"
