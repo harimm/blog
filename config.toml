@@ -25,7 +25,7 @@ pygmentscodefencesguesssyntax = true
   favicon_16 = "/images/favicon-16x16.png"
 
   hideFooter = false
-  hideCredits = true
+  hideCredits = false
   hideCopyright = false
   since = 2021
 
@@ -65,7 +65,3 @@ pygmentscodefencesguesssyntax = true
   name = "About"
   weight = 2
   url = "/about"
-[[menu.main]]
-  name = "Credits"
-  weight = 2
-  url = "/credits"
