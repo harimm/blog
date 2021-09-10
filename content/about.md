@@ -6,11 +6,11 @@ draft: false
 
 Drop a mail to [me@harimohan.dev](mailto:me@harimohan.dev)
 
-# Professional Experience
+## Professional Experience
 
-## Oracle | Principal Applications Engineer | *June 2013 - present*
+### Oracle | Principal Applications Engineer | *June 2013 - present*
 
-### [Oracle B2C Service](https://www.oracle.com/cx/service/b2c/) | *September 2015 - present*
+#### [Oracle B2C Service](https://www.oracle.com/cx/service/b2c/) | *September 2015 - present*
 
 * Agent Browser UI
     - Lead Developer for the *Reporting and Analytics* Module of **Agent Browser UI**.
@@ -28,7 +28,7 @@ Java using Spring and are deployed in Oracle Cloud leveraging [Kubernetes](https
     - Originally created as part of Oracle Service Cloud Hackathon 2018 and won podium in the Best Hack category.
 
 
-### [Oracle Construction and Engineering](https://www.oracle.com/industries/construction-engineering/) | *June 2013 - September 2015*
+#### [Oracle Construction and Engineering](https://www.oracle.com/industries/construction-engineering/) | *June 2013 - September 2015*
 
 * [Primavera P6 EPPM - *Enterprise Project Portfolio Management*](https://www.oracle.com/in/industries/construction-engineering/primavera-p6/)
     - Developer at P6 EPPM sustenance engineering.
