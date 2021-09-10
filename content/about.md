@@ -6,7 +6,13 @@ draft: false
 
 Drop a mail to [me@harimohan.dev](mailto:me@harimohan.dev)
 
-## Professional Experience
+---
+
+Highly skilled software engineer with over 8 years of experience in analysis, design, development, and deployment of on-premise and cloud applications. Designed and developed applications and tools leveraging Java, Javascript, jQuery, Spring, Kafka, Docker, Kubernetes, etc. Has a proven track record for innovation and is a winner of multiple hackathons within the organization at the regional as well as global level. Strong background with leadership and collaboration. Exceptional problem solver and adept at mastering new technologies and skills.
+
+---
+
+## Professional Career
 
 ### Oracle | Principal Applications Engineer | *June 2013 - present*
 
@@ -25,7 +31,7 @@ Java using Spring and are deployed in Oracle Cloud leveraging [Kubernetes](https
     - Built microservice for queueing reports for asynchronous execution. 
 * Exceptions to Incident integration
     - Built an integration which would scan application logs to automatically create bugs for repeated exceptions and assign to appropriate teams for investigation.
-    - Originally created as part of Oracle Service Cloud Hackathon 2018 and won podium in the Best Hack category.
+    - Originally created as part of Oracle Service Cloud Hackathon 2019 and won podium in the Best Hack category.
 
 
 #### [Oracle Construction and Engineering](https://www.oracle.com/industries/construction-engineering/) | *June 2013 - September 2015*
@@ -36,3 +42,5 @@ Java using Spring and are deployed in Oracle Cloud leveraging [Kubernetes](https
     - Created **Automated Patch Installer** tool for P6 EPPM Patch sets and interim patches.
     - Created **Data Correction Wizard** for P6 EPPM which would fix corrupted project hierarchy structure.
     - Delivered performance enhancements for scheduled services of P6 EPPM which reduced the run time of back-end processes. Certain use cases experienced a reduction in time of up to **99%**. Delivered multiple critical bug fixes to customers for P6.
+
+---
