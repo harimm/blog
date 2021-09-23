@@ -26,7 +26,7 @@ Highly skilled software engineer with over 8 years of experience in analysis, de
     - Rearchitected reporting features from a monolithic mid-tier server application into multiple microservices, each focusing on a different functionality - Report Execution, Publishing etc. 
 * Analytics 2.0
     - Lead Developer for **Reporting Database Microservices**. The microservices are written in
-Java using Spring and are deployed in Oracle Cloud leveraging [Kubernetes](https://kubernetes.io/).
+**Java** using [Spring](https://spring.io/) and are deployed in Oracle Cloud leveraging [Kubernetes](https://kubernetes.io/).
     - Built microservice for scheduling reports for recurring execution. Provides the ability to configure a wide range of schedule options to allow the user to run reports on specific times of day, specific days in a week or month, specific months in an year etc.
     - Built microservice for queueing reports for asynchronous execution. 
 * Exceptions to Incident integration
