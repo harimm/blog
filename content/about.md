@@ -8,7 +8,7 @@ Drop a mail to [me@harimohan.dev](mailto:me@harimohan.dev)
 
 ---
 
-<i>Updates coming soon... </i>
+_Updates coming soon..._
 
 ---
 Highly skilled software engineer with over 8 years of experience in analysis, design, development, and deployment of on-premise and cloud applications. Designed and developed applications and tools leveraging Java, Javascript, jQuery, Spring, Kafka, Docker, Kubernetes, etc. Has a proven track record for innovation and is a winner of multiple hackathons within the organization at the regional as well as global level. Strong background with leadership and collaboration. Exceptional problem solver and adept at mastering new technologies and skills.
