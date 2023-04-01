@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: 2021-09-09T15:47:19+05:30
+date: 2023-04-01T11:47:19+05:30
 draft: false
 ---
 
@@ -8,6 +8,9 @@ Drop a mail to [me@harimohan.dev](mailto:me@harimohan.dev)
 
 ---
 
+<i>Updates coming soon... </i>
+
+---
 Highly skilled software engineer with over 8 years of experience in analysis, design, development, and deployment of on-premise and cloud applications. Designed and developed applications and tools leveraging Java, Javascript, jQuery, Spring, Kafka, Docker, Kubernetes, etc. Has a proven track record for innovation and is a winner of multiple hackathons within the organization at the regional as well as global level. Strong background with leadership and collaboration. Exceptional problem solver and adept at mastering new technologies and skills.
 
 ---
